@@ -97,21 +97,3 @@ int dayofweek(int month, int year)
 	else
 		return add % 7;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
